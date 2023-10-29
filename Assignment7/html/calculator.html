@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../styles/calculator-style.css">
+    <title>Calculator</title>
+    <script src="../scripts/calculator.js" defer></script>
+</head>
+<body>
+    <header>
+        <nav>
+            <ul class="menu">
+                <li><a href="calculator.html">Calculator</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Hockey">The Best Sport Ever</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/History">The Best Subject to Study</a></li>
+                <li><a href="https://en.wikipedia.org/wiki/Morgan_Wallen">The Best Artist There Is</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <img id="img1" src="../images/images/machine1280w.jpg" alt="responsiveimg">
+        <img id="img2" src="../images/images/machine640w.jpg" alt="responsiveimg">    
+    </main>
+    <div class="calculator">
+        <div class="input-fields">
+            <input type="text" id="input1" placeholder="Enter number">
+            <span id="operator"></span>
+            <input type="text" id="input2" placeholder="Enter number">
+            <div class="result">= <span id="output">0</span></div>
+        </div>
+        <!-- Add the 'comparison-buttons' div within the buttons div -->
+        <div class="buttons">
+            <button id="add">+</button>
+            <button id="subtract">-</button>
+            <button id="multiply">×</button>
+            <button id="divide">÷</button>
+            <button id="greaterthan">≥</button>
+            <button id="lessthan">≤</button>
+            <button id="clear">c</button>
+        </div>
+        <div class="mobilebuttons">
+            <button id="addmobile">+</button>
+            <button id="subtractmobile">-</button>
+            <button id="multiplymobile">×</button>
+            <button id="dividemobile">÷</button>
+        </div>
+    </div>
+</body>
+</html>

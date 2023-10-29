@@ -1,0 +1,48 @@
+header {
+    background-color: orangered;
+    color: white;
+    padding: 10px;
+}
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+}
+
+.menu li {
+    margin: 10px;
+}
+
+html {
+    background-color: darkgray;
+}
+
+#img1 {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+#img2 {
+    display: none;
+}
+
+/* Media Query for mobile devices */
+@media (max-width: 600px) {
+    .menu {
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    #img1 {
+        display: none;
+    }
+    
+    #img2 {
+        display: block;
+        width: 100%;
+        height: auto;
+    }
+}
