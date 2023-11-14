@@ -1,0 +1,64 @@
+/* CountButton Component Styles */
+button {
+    background-color: #d9ecfa;
+    color: black;
+    border: none;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-right: 5px;
+}
+
+/* ProductSearch Component Styles */
+input {
+    margin-bottom: 10px;
+    padding: 8px;
+    font-size: 16px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+}
+
+/* Main Page Styles */
+main {
+    font-family: 'Arial', sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+hr {
+    margin: 20px 0;
+    border: 0;
+    border-top: 1px solid #ddd;
+}
+
+/* Additional Styles for Small and Square Images */
+table img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover; /* Ensures the image maintains its aspect ratio within the square */
+}
+
+/* Additional Styles for Small and Square Table Cells */
+th, td {
+    padding: 5px; /* Adjust the padding for smaller cells */
+    text-align: center; /* Center the text in cells */
+}
