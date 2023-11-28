@@ -1,34 +1,68 @@
+/* Set a dark font color for better contrast */
 body {
     font-family: Arial, sans-serif;
-    text-align: center;
-    margin: 50px;
-    color: #333; /* Set a color for better contrast */
+    text-align: left;
+    color: #1f1f1f; 
 }
 
+/* Use header tag */
 header {
-    background-color: #f2f2f2; /* Add background color for header */
-    padding: 10px;
-}
-
-main {
-    margin-top: 20px; /* Add some space between header and main content */
+    background-color: #e8e9eb;
+    padding: 2em;
+    margin-bottom: 5em; 
 }
 
 img {
     border-radius: 50%;
-    margin-top: 10px;
-    display: block; /* Make the img a block-level element */
+    display: block; 
     margin-left: auto;
     margin-right: auto;
 }
 
-footer {
-    margin-top: 20px; /* Add space between main content and footer */
-    background-color: #f2f2f2; /* Add background color for footer */
-    padding: 10px;
+/* Use main tag for the main content of the page */
+main {
+    text-align: center;
 }
 
+/* Align text to the left for easier reading */
+h3, h4, ul {
+    text-align: left;
+}
+
+/* Use rem so the font size is not fixed */
+/* Line height must be 1.5 times larger than the font-size */
+p {
+    font-size: .9rem; 
+    line-height: 1.35rem;
+}
+
+/* Make links stand out */
 a {
     text-decoration: underline; /* Underline links */
     font-weight: bold; /* Bolden links */
+    color: #061259; /* Color links */
+}
+
+/* Use footer tag */
+footer {
+    margin-top: 7em; 
+    background-color: #e8e9eb; 
+    padding: 10px;
+}
+
+/* Table styles */
+table {
+    font-size: .9rem;
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+td, th {
+    border: .2em solid black;
+    text-align: left;
+    padding: 1em;
+}
+  
+.row {
+    background-color: #e8e9eb;
 }
