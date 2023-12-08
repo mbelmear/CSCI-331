@@ -2,9 +2,9 @@
 
 ## Project Links
 
-- **Hosted Site:** [Link to the hosted site on the school server]
-- **GitHub Repositories:** [Link to your GitHub repo]
-- **Group Presentation Slideshow:** [Link to the presentation slideshow]
+- **Hosted Site:** https://mbelmear.github.io/CSCI-331/Final%20Project/
+- **GitHub Repositories:** https://github.com/mbelmear/CSCI-331/tree/main/Final%20Project
+- **Group Presentation Slideshow:** https://docs.google.com/presentation/d/14D2j1q7L0T7WU2Pgl7byY1G44EubFcrGJKhKl4oXbq4/edit#slide=id.p
 
 ## Creative Objective
 
@@ -18,7 +18,7 @@ The Web Accessibility feature is built using HTML, CSS, and JavaScript to create
   
 - **CSS Styling:** Utilization of CSS for styling, emphasizing readability, color contrast, and link visibility. Relative units (`rem`) are used for font sizing, and links are styled for better visibility.
 
-- **JavaScript Functionality:** The JavaScript code fetches data from the [Random User API](https://randomuser.me/api) and dynamically displays a random user's information on the webpage. The data is presented in a structured format, and the webpage is updated without requiring a full page reload.
+- **JavaScript Functionality:** The JavaScript code fetches data from the [Random User API](https://randomuser.me) and dynamically displays a random user's information on the webpage. The data is presented in a structured format, and the webpage is updated without requiring a full page reload.
 
 ## Individual Member Notes
 
