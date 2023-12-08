@@ -2,7 +2,7 @@
 
 ## Project Links
 
-- **Hosted Site:** https://mbelmear.github.io/CSCI-331/Final%20Project/
+- **Hosted Site:** https://mbelmear.github.io/CSCI-331/Final%20Project/index.html
 - **GitHub Repositories:** https://github.com/mbelmear/CSCI-331/tree/main/Final%20Project
 - **Downloadable Group PowerPoint Presentation:** https://mbelmear.github.io/CSCI-331/Final%20Project/Web%20Accessibility.pptx
 
