@@ -22,15 +22,15 @@ The Web Accessibility feature is built using HTML, CSS, and JavaScript to create
 
 ## Individual Member Notes
 
-### Megan Steinmasel
-- Created the PowerPoint presentation outlining the Web Accessibility feature.
-- Contributed to documentation, including tables and sources for the program.
-- Assisted in the revision of CSS sizing units and text alignment in the program.
-
 ### Michael Belmear
 - Created the initial structure of the site.
 - Contributed significantly to the documentation.
 - Wrote the majority of the HTML, CSS, and JavaScript, with collaborative improvements from Megan.
+
+### Megan Steinmasel
+- Created the PowerPoint presentation outlining the Web Accessibility feature.
+- Contributed to documentation, including tables and sources for the program.
+- Assisted in the revision of CSS sizing units and text alignment in the program.
 
 ## Conclusion
 
