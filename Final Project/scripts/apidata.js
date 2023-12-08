@@ -70,6 +70,5 @@ function displayUser(user) {
         </ul>
     `;
 }
-
 // Call getRandomUser function when the page loads
 getRandomUser();
