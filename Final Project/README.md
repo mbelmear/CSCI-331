@@ -4,7 +4,7 @@
 
 - **Hosted Site:** https://mbelmear.github.io/CSCI-331/Final%20Project/
 - **GitHub Repositories:** https://github.com/mbelmear/CSCI-331/tree/main/Final%20Project
-- **Group Presentation Slideshow:** https://docs.google.com/presentation/d/14D2j1q7L0T7WU2Pgl7byY1G44EubFcrGJKhKl4oXbq4/edit#slide=id.p
+- **Downloadable Group PowerPoint Presentation:** https://mbelmear.github.io/CSCI-331/Final%20Project/Web%20Accessibility.pptx
 
 ## Creative Objective
 
