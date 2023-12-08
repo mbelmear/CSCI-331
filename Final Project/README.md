@@ -6,11 +6,11 @@ Our collaborative effort, Group 27 consisting of myself (Michael Belmear) and Me
 
 ## Project Links
 
-- **Hosted Site on GitHub:** https://mbelmear.github.io/CSCI-331/Final%20Project/index.html
-- **Hosted Site on School Server:** https://csci331.cs.montana.edu/~h37r784/Final%20Project/
-- **GitHub Repository:** https://github.com/mbelmear/CSCI-331/tree/main/Final%20Project
-- **Group PowerPoint Presentation:** https://docs.google.com/presentation/d/14D2j1q7L0T7WU2Pgl7byY1G44EubFcrGJKhKl4oXbq4/edit#slide=id.p
-- **Downloadable Group PowerPoint Presentation:** https://mbelmear.github.io/CSCI-331/Final%20Project/Web%20Accessibility.pptx
+- [**Hosted Site on GitHub**](https://mbelmear.github.io/CSCI-331/Final%20Project/index.html)
+- [**Hosted Site on School Server**](https://csci331.cs.montana.edu/~h37r784/Final%20Project/)
+- [**GitHub Repository**](https://github.com/mbelmear/CSCI-331/tree/main/Final%20Project)
+- [**Group PowerPoint Presentation**](https://docs.google.com/presentation/d/14D2j1q7L0T7WU2Pgl7byY1G44EubFcrGJKhKl4oXbq4/edit#slide=id.p)
+- [**Downloadable Group PowerPoint Presentation**](https://mbelmear.github.io/CSCI-331/Final%20Project/Web%20Accessibility.pptx)
 
 ## Creative Objective
 
@@ -49,6 +49,6 @@ The struggle to align design aesthetics with accessibility requirements highligh
 
 ## References
 
-- [WCAG Standards](https://www.w3.org/WAI/standards-guidelines/wcag/)
-- [Web Accessibility Guide](https://blog.hubspot.com/website/web-accessibility)
-- [Semantic HTML Cheat Sheet](https://medium.com/@ericapantojacs/semantic-html-cheat-sheet-9194768368bb)
+- [**WCAG Standards**](https://www.w3.org/WAI/standards-guidelines/wcag/)
+- [**Web Accessibility Guide**](https://blog.hubspot.com/website/web-accessibility)
+- [**Semantic HTML Cheat Sheet**](https://medium.com/@ericapantojacs/semantic-html-cheat-sheet-9194768368bb)
